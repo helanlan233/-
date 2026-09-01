@@ -1,0 +1,7 @@
+streamlit>=1.42,<2
+pypdf>=5,<7
+openai>=1.66,<3
+faiss-cpu>=1.9,<2
+numpy>=1.23,<3
+python-dotenv>=1.0,<2
+
